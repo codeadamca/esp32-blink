@@ -1,4 +1,4 @@
-# esp32-blink
+# ESP32 Blinking Onboard LED
 
 A basic script that causes the onboard LED on the ESP32 microcontroller to blink. 
 
