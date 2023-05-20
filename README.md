@@ -4,7 +4,9 @@ A basic script that causes the onboard LED on the ESP32 microcontroller to blink
 
 The ESP32 microcontroller I was using does not have an onboard LED. You may have to adjust the pin number to make this script wrork with your version.
 
-## Tutorial Requirements:
+***
+
+## Repo Resources
 
 * [Visual Studio Code](https://code.visualstudio.com/)
 * [LMS-ESP32](https://antonsmindstorms.com/product/wifi-python-esp32-board-for-mindstorms/)
