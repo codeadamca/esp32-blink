@@ -13,6 +13,7 @@ The ESP32 microcontroller I was using does not have an onboard LED. You may have
 * [Thonny](https://thonny.org/)
 * [Ampy](https://pypi.org/project/adafruit-ampy/)
 
+<br>
 <a href="https://codeadam.ca">
-<img src="https://codeadam.ca/images/code-block.png" width="100">
+<img src="https://cdn.codeadam.ca/images@1.0.0/codeadam-logo-coloured-horizontal.png" width="200">
 </a>
